@@ -2,8 +2,10 @@
 
 # Architecture
 
-As for the main achitecture, I've split it up over the following parts:
+As for the main achitecture, I've chosen to use nuxt and tailwind in the setup to make development easier in case of framework and styling wise. 
 
-- assets (containing mostly static stuff, like scss, css)
+Furthermore, I've split up the project over the following parts:
+- assets
+- 
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/github-tv-maze-dashboard)
