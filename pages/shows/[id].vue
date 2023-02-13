@@ -22,8 +22,8 @@ if (!show) {
             src="/placeholder.png"
             alt="placeholder"
             class="rounded-lg shadow-md w-full"
-            width="230"
-            height="370"
+            width="200"
+            height="300"
           />
         </div>
       </div>
