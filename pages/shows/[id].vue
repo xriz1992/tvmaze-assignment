@@ -5,8 +5,6 @@ const { id } = useRoute().params
 
 const { data: show } = await fetchShows<ShowsTypes>(`shows/${id}`)
 
-console.log('show data: ', show)
-
 if (!show) {
   throw createError({ statusCode: 404, message: 'Show not found' })
 }
