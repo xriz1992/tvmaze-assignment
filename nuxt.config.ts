@@ -1,6 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  modules: ['@nuxtjs/tailwindcss', '@nuxt/image-edge', '@typescript-eslint'],
+  modules: ['@nuxtjs/tailwindcss', '@nuxt/image-edge'],
   runtimeConfig: {
     apiKey: process.env.TVMAZE_API_KEY,
   },
