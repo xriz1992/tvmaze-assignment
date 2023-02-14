@@ -10,9 +10,9 @@ const style = {
 
 <template>
   <div class="relative z-30 w-[100px]">
-    <img src="/stars.webp" class="absolute inset-0" aria-hidden="true" />
+    <img src="./stars.webp" class="absolute inset-0" aria-hidden="true" />
     <img
-      src="/stars-filled.webp"
+      src="./stars-filled.webp"
       class="absolute inset-0"
       width="100"
       height="100"
